@@ -57,7 +57,7 @@ python -m prodigy ner.teach [dataset] en_core_web_sm [corpus-filepath] -l [label
 python -m prodigy ner.teach sample en_core_web_sm ./[dpl-indications.csv] -l [./labels.txt] -pt ./sample-patterns.jsonl
 ```
 
+**manually annotate the DailyMed drug labels and export the annotations
 
-
-
-
+python3 -m prodigy ner.manual dailymed blank:en ./drugcentral-dailymed-labels.txt -l ./indications_types.txt
+python3 -m prodigy db-out dailymed --dry > dailymed-annotations.jsonl

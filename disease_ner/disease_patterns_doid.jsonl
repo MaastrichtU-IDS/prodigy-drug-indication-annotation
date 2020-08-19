@@ -1,0 +1,628 @@
+{"label": "DISEASE", "pattern": [{"lower": "giant"}, {"lower": "papillary"}, {"lower": "conjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperparathyroidism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "premature"}, {"lower": "ejaculation"}]}
+{"label": "DISEASE", "pattern": [{"lower": "restless"}, {"lower": "legs"}]}
+{"label": "DISEASE", "pattern": [{"lower": "inflammatory"}, {"lower": "bowel"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neuromyelitis"}, {"lower": "optica"}]}
+{"label": "DISEASE", "pattern": [{"lower": "actinomycosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "open-angle"}, {"lower": "glaucoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "primary"}, {"lower": "hyperoxaluria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "monocytic/monoblastic"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "anxiety"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "paratyphoid"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "typhus"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gastroesophageal"}, {"lower": "reflux"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pinta"}]}
+{"label": "DISEASE", "pattern": [{"lower": "squamous"}, {"lower": "cell"}, {"lower": "carcinoma"}, {"lower": "of"}, {"lower": "lung"}]}
+{"label": "DISEASE", "pattern": [{"lower": "aldosteronism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "zollinger"}, {"lower": "ellison"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ulcerative"}, {"lower": "colitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "allergic"}, {"lower": "bronchopulmonary"}, {"lower": "aspergillosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neoplasm"}, {"lower": "of"}, {"lower": "brain"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gastroparesis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "diabetes"}, {"lower": "mellitus"}, {"lower": "type"}, {"lower": "1"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tear"}, {"lower": "film"}, {"lower": "insufficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pediculosis"}, {"lower": "capitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sitosterolemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "obstruction"}, {"lower": "of"}, {"lower": "bile"}, {"lower": "duct"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infectious"}, {"lower": "disorder"}, {"lower": "of"}, {"lower": "joint"}]}
+{"label": "DISEASE", "pattern": [{"lower": "astrocytoma,"}, {"lower": "anaplastic"}]}
+{"label": "DISEASE", "pattern": [{"lower": "testicular"}, {"lower": "cancer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "respiratory"}, {"lower": "syncytial"}, {"lower": "virus"}, {"lower": "infection"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypoglycemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "aspergillosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rhabdomyosarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "fibromyalgia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "iritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "megaloblastic"}, {"lower": "anemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "congenital"}, {"lower": "adrenal"}, {"lower": "hyperplasia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "polymyalgia"}, {"lower": "rheumatica"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gastritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "secondary"}, {"lower": "syphilis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "cardiovascular"}, {"lower": "system"}]}
+{"label": "DISEASE", "pattern": [{"lower": "familial"}, {"lower": "mediterranean"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "atopic"}, {"lower": "dermatitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "vernal"}, {"lower": "conjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "social"}, {"lower": "phobia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "thyrotoxic"}, {"lower": "crisis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "wilms"}, {"lower": "tumor"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pemphigus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "trachoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cystinosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "amyloidosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chronic"}, {"lower": "lymphocytic"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "obsessive-compulsive"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "septicemic"}, {"lower": "plague"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cystic"}, {"lower": "fibrosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "eruption"}, {"lower": "of"}, {"lower": "skin"}]}
+{"label": "DISEASE", "pattern": [{"lower": "anthrax"}]}
+{"label": "DISEASE", "pattern": [{"lower": "aggressive"}, {"lower": "systemic"}, {"lower": "mastocytosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neurogenic"}, {"lower": "bladder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "fungal"}, {"lower": "meningitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tuberous"}, {"lower": "sclerosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bacterial"}, {"lower": "meningitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "absence"}, {"lower": "seizure"}]}
+{"label": "DISEASE", "pattern": [{"lower": "abscess"}, {"lower": "of"}, {"lower": "lung"}]}
+{"label": "DISEASE", "pattern": [{"lower": "psoriasis"}, {"lower": "with"}, {"lower": "arthropathy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "keratoconjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "lymphatic"}, {"lower": "filariasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "beta"}, {"lower": "thalassemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "carcinoma"}, {"lower": "of"}, {"lower": "fallopian"}, {"lower": "tube"}]}
+{"label": "DISEASE", "pattern": [{"lower": "smallpox"}]}
+{"label": "DISEASE", "pattern": [{"lower": "wolman's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "diabetic"}, {"lower": "retinopathy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "urinary"}, {"lower": "bladder"}, {"lower": "stone"}]}
+{"label": "DISEASE", "pattern": [{"lower": "trichuriasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "erythrasma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypertrophic"}, {"lower": "cardiomyopathy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "legionella"}, {"lower": "pneumonia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ancylostomiasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "erythropoietic"}, {"lower": "protoporphyria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "brill-zinsser"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "follicular"}, {"lower": "thyroid"}, {"lower": "carcinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "arteriosclerotic"}, {"lower": "vascular"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "prader-willi"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hereditary"}, {"lower": "angioneurotic"}, {"lower": "edema"}]}
+{"label": "DISEASE", "pattern": [{"lower": "non"}, {"lower": "insulin"}, {"lower": "dependent"}, {"lower": "diabetes"}, {"lower": "mellitus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "factor"}, {"lower": "vii"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "islet"}, {"lower": "cell"}, {"lower": "hyperplasia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "age"}, {"lower": "related"}, {"lower": "macular"}, {"lower": "degeneration"}]}
+{"label": "DISEASE", "pattern": [{"lower": "epilepsy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "type"}, {"lower": "2"}, {"lower": "diabetes"}, {"lower": "mellitus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "aphthous"}, {"lower": "ulcer"}, {"lower": "of"}, {"lower": "mouth"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "myocardial"}, {"lower": "infarction"}]}
+{"label": "DISEASE", "pattern": [{"lower": "erysipelas"}]}
+{"label": "DISEASE", "pattern": [{"lower": "peptic"}, {"lower": "ulcer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "glaucoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "thrombotic"}, {"lower": "thrombocytopenic"}, {"lower": "purpura"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tinea"}, {"lower": "pedis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "adrenogenital"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pituitary"}, {"lower": "dwarfism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "thromboangiitis"}, {"lower": "obliterans"}]}
+{"label": "DISEASE", "pattern": [{"lower": "seborrheic"}, {"lower": "dermatitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pernicious"}, {"lower": "anemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperthyroidism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "breast"}]}
+{"label": "DISEASE", "pattern": [{"lower": "angioedema"}]}
+{"label": "DISEASE", "pattern": [{"lower": "systemic"}, {"lower": "sclerosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "trichinosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "testis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "congenital"}, {"lower": "hypoplastic"}, {"lower": "anemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "paget"}, {"lower": "s"}, {"lower": "disease"}, {"lower": "of"}, {"lower": "bone"}]}
+{"label": "DISEASE", "pattern": [{"lower": "eosinophilic"}, {"lower": "asthma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "raynaud's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "lymphogranuloma"}, {"lower": "venereum"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gastrointestinal"}, {"lower": "anthrax"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "gonococcal"}, {"lower": "endometritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rickets"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperuricemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "vitamin"}, {"lower": "b6"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ewing's"}, {"lower": "sarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "opisthorchiasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "brucellosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "adenocarcinoma"}, {"lower": "of"}, {"lower": "pancreas"}]}
+{"label": "DISEASE", "pattern": [{"lower": "temporal"}, {"lower": "arteritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chronic"}, {"lower": "myeloid"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "methemoglobinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dermatophytosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bronchiectasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "psoriatic"}, {"lower": "arthritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "myelofibrosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dermatosis"}, {"lower": "of"}, {"lower": "scalp"}]}
+{"label": "DISEASE", "pattern": [{"lower": "migraine"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chronic"}, {"lower": "obstructive"}, {"lower": "lung"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "zollinger-ellison"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "duchenne"}, {"lower": "muscular"}, {"lower": "dystrophy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "uveitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "fibrosis"}, {"lower": "of"}, {"lower": "lung"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cryptorchidism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypogonadotropic"}, {"lower": "hypogonadism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "aplastic"}, {"lower": "anemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "postencephalitic"}, {"lower": "parkinsonism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "undescended"}, {"lower": "testicle"}]}
+{"label": "DISEASE", "pattern": [{"lower": "primary"}, {"lower": "biliary"}, {"lower": "cirrhosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rhinoscleroma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pulmonary"}, {"lower": "hypertension"}]}
+{"label": "DISEASE", "pattern": [{"lower": "homocystinuria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "myoclonic"}, {"lower": "seizure"}]}
+{"label": "DISEASE", "pattern": [{"lower": "diamond"}, {"lower": "blackfan"}, {"lower": "anemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cycloplegia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "lymphangioleiomyomatosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "short"}, {"lower": "bowel"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypertrichosis"}, {"lower": "of"}, {"lower": "eyelid"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chronic"}, {"lower": "bronchitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypoparathyroidism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "thyroid"}, {"lower": "eye"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "transitional"}, {"lower": "cell"}, {"lower": "carcinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "multiple"}, {"lower": "sclerosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "panic"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cystinuria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infective"}, {"lower": "otitis"}, {"lower": "externa"}]}
+{"label": "DISEASE", "pattern": [{"lower": "botulism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "vasomotor"}, {"lower": "rhinitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "adrenal"}, {"lower": "cortical"}, {"lower": "hypofunction"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "lymphoblastic"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "korsakoff's"}, {"lower": "psychosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "partial"}, {"lower": "seizure"}]}
+{"label": "DISEASE", "pattern": [{"lower": "miliary"}, {"lower": "tuberculosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infiltrating"}, {"lower": "duct"}, {"lower": "carcinoma"}, {"lower": "of"}, {"lower": "breast"}]}
+{"label": "DISEASE", "pattern": [{"lower": "klinefelter"}, {"lower": "s"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "granuloma"}, {"lower": "inguinale"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hiv"}, {"lower": "infection"}]}
+{"label": "DISEASE", "pattern": [{"lower": "posttraumatic"}, {"lower": "stress"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "varicella"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chorioretinitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "contact"}, {"lower": "dermatitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hemorrhoids"}]}
+{"label": "DISEASE", "pattern": [{"lower": "condyloma"}, {"lower": "acuminatum"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "promyelocytic"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "ovary"}]}
+{"label": "DISEASE", "pattern": [{"lower": "choroiditis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pulmonary"}, {"lower": "embolism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pulmonary"}, {"lower": "lymphangioleiomyomatosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dermatographic"}, {"lower": "urticaria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypertension"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pediculosis"}, {"lower": "corporis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dacryocystitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infectious"}, {"lower": "diarrheal"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dysentery"}]}
+{"label": "DISEASE", "pattern": [{"lower": "epithelioid"}, {"lower": "sarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hodgkin"}, {"lower": "lymphoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "thrombocytopenic"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "allergic"}, {"lower": "conjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acromegaly"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "bronchitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "angiofollicular"}, {"lower": "lymph"}, {"lower": "node"}, {"lower": "hyperplasia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hepatic"}, {"lower": "coma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "noonan's"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ovale"}, {"lower": "malaria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "diabetic"}, {"lower": "macular"}, {"lower": "edema"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gilles"}, {"lower": "de"}, {"lower": "la"}, {"lower": "tourette's"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "von"}, {"lower": "willebrand"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "lack"}, {"lower": "or"}, {"lower": "loss"}, {"lower": "of"}, {"lower": "sexual"}, {"lower": "desire"}]}
+{"label": "DISEASE", "pattern": [{"lower": "vivax"}, {"lower": "malaria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "listeria"}, {"lower": "meningitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "obstructive"}, {"lower": "sleep"}, {"lower": "apnea"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "medullary"}, {"lower": "thyroid"}, {"lower": "carcinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "anorexia"}, {"lower": "nervosa"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cryptococcosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chickenpox"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bejel"}]}
+{"label": "DISEASE", "pattern": [{"lower": "fibrocystic"}, {"lower": "breast"}, {"lower": "changes"}]}
+{"label": "DISEASE", "pattern": [{"lower": "trichomoniasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rheumatic"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "primary"}, {"lower": "adrenocortical"}, {"lower": "insufficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "glucosylceramide"}, {"lower": "beta-glucosidase"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "alopecia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "aspiration"}, {"lower": "pneumonia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "q"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bipolar"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "giant"}, {"lower": "cell"}, {"lower": "arteritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tenosynovitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "by"}, {"lower": "cryptosporidium"}]}
+{"label": "DISEASE", "pattern": [{"lower": "stevens-johnson"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "systemic"}, {"lower": "mast"}, {"lower": "cell"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neurosyphilis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hidradenitis"}, {"lower": "suppurativa"}]}
+{"label": "DISEASE", "pattern": [{"lower": "empyema"}]}
+{"label": "DISEASE", "pattern": [{"lower": "megaloblastic"}, {"lower": "anemia"}, {"lower": "due"}, {"lower": "to"}, {"lower": "folate"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acquired"}, {"lower": "thrombocytopenia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mucopolysaccharidosis,"}, {"lower": "mps-i"}]}
+{"label": "DISEASE", "pattern": [{"lower": "patent"}, {"lower": "ductus"}, {"lower": "arteriosus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "narcolepsy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "listeriosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "lymphoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "arthropathy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "generalized"}, {"lower": "anxiety"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "congestive"}, {"lower": "heart"}, {"lower": "failure"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperinsulinism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "epicondylitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "amyotrophic"}, {"lower": "lateral"}, {"lower": "sclerosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sympathetic"}, {"lower": "uveitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "essential"}, {"lower": "hypertension"}]}
+{"label": "DISEASE", "pattern": [{"lower": "huntington's"}, {"lower": "chorea"}]}
+{"label": "DISEASE", "pattern": [{"lower": "allergic"}, {"lower": "urticaria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "thyroid"}, {"lower": "gland"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ankylosing"}, {"lower": "spondylitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "nephrotic"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chronic"}, {"lower": "lymphoid"}, {"lower": "leukemia,"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "myeloproliferative"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "myxedema"}]}
+{"label": "DISEASE", "pattern": [{"lower": "myocardial"}, {"lower": "infarction"}]}
+{"label": "DISEASE", "pattern": [{"lower": "congenital"}, {"lower": "syphilis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "due"}, {"lower": "to"}, {"lower": "clostridium"}, {"lower": "botulinum"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperphosphatemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "leber's"}, {"lower": "optic"}, {"lower": "atrophy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "familial"}, {"lower": "lipoprotein"}, {"lower": "lipase"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "corneal"}, {"lower": "ulcer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "otitis"}, {"lower": "externa"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pharyngitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "streptococcal"}, {"lower": "meningitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "goiter"}]}
+{"label": "DISEASE", "pattern": [{"lower": "leiomyosarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "prader"}, {"lower": "willi"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "post"}, {"lower": "traumatic"}, {"lower": "stress"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "lichen"}, {"lower": "planus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "papillary"}, {"lower": "thyroid"}, {"lower": "carcinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "late"}, {"lower": "syphilis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "venous"}, {"lower": "varices"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cutaneous"}, {"lower": "leishmaniasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dermal"}, {"lower": "mycosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pulmonary"}, {"lower": "tuberculosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "toxoplasmosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sickle"}, {"lower": "cell"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "osteosarcoma"}, {"lower": "of"}, {"lower": "bone"}]}
+{"label": "DISEASE", "pattern": [{"lower": "secondary"}, {"lower": "thrombocytopenia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypertensive"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gastroesophageal"}, {"lower": "reflux"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cholangitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "esotropia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "giardiasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "psoriasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "angle-closure"}, {"lower": "glaucoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "fallopian"}, {"lower": "tube"}]}
+{"label": "DISEASE", "pattern": [{"lower": "huntington"}, {"lower": "s"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ocular"}, {"lower": "hypertension"}]}
+{"label": "DISEASE", "pattern": [{"lower": "autistic"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "renal"}, {"lower": "tubular"}, {"lower": "acidosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "alopecia"}, {"lower": "areata"}]}
+{"label": "DISEASE", "pattern": [{"lower": "african"}, {"lower": "trypanosomiasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "primary"}, {"lower": "malignant"}, {"lower": "neoplasm"}, {"lower": "of"}, {"lower": "brain"}]}
+{"label": "DISEASE", "pattern": [{"lower": "atrioventricular"}, {"lower": "block"}]}
+{"label": "DISEASE", "pattern": [{"lower": "alzheimer's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "immune"}, {"lower": "thrombocytopenia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "small"}, {"lower": "cell"}, {"lower": "carcinoma"}, {"lower": "of"}, {"lower": "lung"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypothyroidism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tetralogy"}, {"lower": "of"}, {"lower": "fallot"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ascariasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "by"}, {"lower": "fasciola"}]}
+{"label": "DISEASE", "pattern": [{"lower": "echinococcus"}, {"lower": "granulosus"}, {"lower": "infection"}]}
+{"label": "DISEASE", "pattern": [{"lower": "deficiency"}, {"lower": "of"}, {"lower": "mevalonate"}, {"lower": "kinase"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypercalcemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "coccidioidomycosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disseminated"}, {"lower": "intravascular"}, {"lower": "coagulation"}]}
+{"label": "DISEASE", "pattern": [{"lower": "secondary"}, {"lower": "hyperparathyroidism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "by"}, {"lower": "strongyloides"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "by"}, {"lower": "loa"}, {"lower": "loa"}]}
+{"label": "DISEASE", "pattern": [{"lower": "actinomycotic"}, {"lower": "infection"}]}
+{"label": "DISEASE", "pattern": [{"lower": "retinopathy"}, {"lower": "of"}, {"lower": "prematurity"}]}
+{"label": "DISEASE", "pattern": [{"lower": "urethritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gingivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "lung"}]}
+{"label": "DISEASE", "pattern": [{"lower": "typhoid"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "promyelocytic"}, {"lower": "leukemia,"}, {"lower": "fab"}, {"lower": "m3"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "penis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "salpingitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "latent"}, {"lower": "syphilis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "retinoblastoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "by"}, {"lower": "larvae"}, {"lower": "of"}, {"lower": "trichinella"}, {"lower": "spiralis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "murine"}, {"lower": "typhus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pneumonic"}, {"lower": "plague"}]}
+{"label": "DISEASE", "pattern": [{"lower": "paracoccidioidomycosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "genital"}, {"lower": "herpes"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "neoplasm"}, {"lower": "of"}, {"lower": "liver"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypoglycemic"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "herpes"}, {"lower": "simplex"}]}
+{"label": "DISEASE", "pattern": [{"lower": "liposarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pseudomembranous"}, {"lower": "enterocolitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "duodenal"}, {"lower": "ulcer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "kaposi"}, {"lower": "s"}, {"lower": "sarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "letterer"}, {"lower": "siwe"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "gonococcal"}, {"lower": "cervicitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "louse-borne"}, {"lower": "typhus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "systemic"}, {"lower": "lupus"}, {"lower": "erythematosus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "prostate"}]}
+{"label": "DISEASE", "pattern": [{"lower": "niacin"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cholera"}]}
+{"label": "DISEASE", "pattern": [{"lower": "leprosy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bursitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "intermittent"}, {"lower": "claudication"}]}
+{"label": "DISEASE", "pattern": [{"lower": "benign"}, {"lower": "intracranial"}, {"lower": "hypertension"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypophosphatasia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neoplasm"}, {"lower": "of"}, {"lower": "prostate"}]}
+{"label": "DISEASE", "pattern": [{"lower": "multiple"}, {"lower": "myeloma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "carcinoma"}, {"lower": "of"}, {"lower": "breast"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mucopolysaccharidosis,"}, {"lower": "mps-iv-a"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pituitary-dependent"}, {"lower": "cushing's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "epiglottitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "adenosine"}, {"lower": "deaminase"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cardiac"}, {"lower": "arrest"}]}
+{"label": "DISEASE", "pattern": [{"lower": "type"}, {"lower": "iib"}, {"lower": "hyperlipoproteinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "simple"}, {"lower": "goiter"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mucopolysaccharidosis,"}, {"lower": "mps-vii"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperlipoproteinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mucopolysaccharidosis,"}, {"lower": "mps-ii"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "biliary"}, {"lower": "tract"}]}
+{"label": "DISEASE", "pattern": [{"lower": "shigellosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "renal"}, {"lower": "cell"}, {"lower": "carcinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "amenorrhea"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sjogren"}, {"lower": "s"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "lactose"}, {"lower": "intolerance"}]}
+{"label": "DISEASE", "pattern": [{"lower": "empyema"}, {"lower": "of"}, {"lower": "pleura"}]}
+{"label": "DISEASE", "pattern": [{"lower": "autoimmune"}, {"lower": "hemolytic"}, {"lower": "anemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "verruca"}, {"lower": "plantaris"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cholestanol"}, {"lower": "storage"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "primary"}, {"lower": "hyperaldosteronism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "melanoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dermatomyositis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hepatic"}, {"lower": "encephalopathy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gestational"}, {"lower": "trophoblastic"}, {"lower": "neoplasia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cerebrovascular"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "skin"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hydatidiform"}, {"lower": "mole"}]}
+{"label": "DISEASE", "pattern": [{"lower": "uterine"}, {"lower": "leiomyoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "verruca"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pseudomembranous"}, {"lower": "colitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tenosynovial"}, {"lower": "giant"}, {"lower": "cell"}, {"lower": "tumor"}]}
+{"label": "DISEASE", "pattern": [{"lower": "glioblastoma"}, {"lower": "multiforme"}, {"lower": "of"}, {"lower": "brain"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chronic"}, {"lower": "tubotympanic"}, {"lower": "suppurative"}, {"lower": "otitis"}, {"lower": "media"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neuroblastoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "by"}, {"lower": "onchocerca"}, {"lower": "volvulus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "keratoconjunctivitis"}, {"lower": "sicca"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cerebral"}, {"lower": "embolism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neuroendocrine"}, {"lower": "tumor"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bruxism"}, {"lower": "(teeth"}, {"lower": "grinding)"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "maxillary"}, {"lower": "sinusitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "arthritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cholecystitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gerd"}]}
+{"label": "DISEASE", "pattern": [{"lower": "vitiligo"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "urinary"}, {"lower": "bladder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "renal"}, {"lower": "osteodystrophy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "appendicitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperlipidemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mixed"}, {"lower": "hyperlipidemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "seizure"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "actinic"}, {"lower": "keratosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tuberous"}, {"lower": "sclerosis"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "impetigo"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ewing"}, {"lower": "sarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hb"}, {"lower": "ss"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "intermittent"}, {"lower": "porphyria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mycosis"}, {"lower": "fungoides"}]}
+{"label": "DISEASE", "pattern": [{"lower": "adenocarcinoma"}, {"lower": "of"}, {"lower": "stomach"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infestation"}, {"lower": "by"}, {"lower": "phthirus"}, {"lower": "pubis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "waldenström"}, {"lower": "macroglobulinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "carcinoma"}, {"lower": "of"}, {"lower": "cervix"}]}
+{"label": "DISEASE", "pattern": [{"lower": "von"}, {"lower": "willebrand"}, {"lower": "s"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "relapsing"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "primary"}, {"lower": "progressive"}, {"lower": "multiple"}, {"lower": "sclerosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "glossopharyngeal"}, {"lower": "neuralgia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neonatal"}, {"lower": "conjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "irritable"}, {"lower": "bowel"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "dermatitis"}, {"lower": "herpetiformis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "induratio"}, {"lower": "penis"}, {"lower": "plastica"}]}
+{"label": "DISEASE", "pattern": [{"lower": "diabetes"}, {"lower": "mellitus"}, {"lower": "type"}, {"lower": "2"}]}
+{"label": "DISEASE", "pattern": [{"lower": "candidiasis"}, {"lower": "of"}, {"lower": "mouth"}]}
+{"label": "DISEASE", "pattern": [{"lower": "langerhans"}, {"lower": "cell"}, {"lower": "histiocytosis,"}, {"lower": "disseminated"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tonsillitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "blood"}, {"lower": "vessel"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infestation"}, {"lower": "by"}, {"lower": "sarcoptes"}, {"lower": "scabiei"}, {"lower": "var"}, {"lower": "hominis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "burkitt's"}, {"lower": "lymphoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "the"}, {"lower": "urea"}, {"lower": "cycle"}, {"lower": "metabolism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "american"}, {"lower": "mucocutaneous"}, {"lower": "leishmaniasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chronic"}, {"lower": "pyelonephritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tendinitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sjögren's"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "lyme"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "klinefelter's"}, {"lower": "syndrome,"}, {"lower": "xxy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "opioid"}, {"lower": "dependence"}]}
+{"label": "DISEASE", "pattern": [{"lower": "familial"}, {"lower": "type"}, {"lower": "3"}, {"lower": "hyperlipoproteinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "psittacosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hepatic"}, {"lower": "porphyria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "genital"}, {"lower": "herpes"}, {"lower": "simplex"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chromoblastomycosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pulmonary"}, {"lower": "edema"}]}
+{"label": "DISEASE", "pattern": [{"lower": "influenza"}]}
+{"label": "DISEASE", "pattern": [{"lower": "exudative"}, {"lower": "age-related"}, {"lower": "macular"}, {"lower": "degeneration"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infectious"}, {"lower": "diarrhea"}]}
+{"label": "DISEASE", "pattern": [{"lower": "restless"}, {"lower": "legs"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ornithosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "myeloid"}, {"lower": "leukemia,"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "anterior"}, {"lower": "uveitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "glioma,"}, {"lower": "malignant"}]}
+{"label": "DISEASE", "pattern": [{"lower": "nicotine"}, {"lower": "dependence"}]}
+{"label": "DISEASE", "pattern": [{"lower": "maroteaux-lamy"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pasteurella"}, {"lower": "infection"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chancroid"}]}
+{"label": "DISEASE", "pattern": [{"lower": "diabetes"}, {"lower": "mellitus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "histoplasmosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "herpes"}, {"lower": "zoster"}]}
+{"label": "DISEASE", "pattern": [{"lower": "paronychia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rickettsialpox"}]}
+{"label": "DISEASE", "pattern": [{"lower": "endometriosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "boutonneuse"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "congenital"}, {"lower": "toxoplasmosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "migraine"}, {"lower": "with"}, {"lower": "or"}, {"lower": "without"}, {"lower": "aura"}]}
+{"label": "DISEASE", "pattern": [{"lower": "status"}, {"lower": "epilepticus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "articular"}, {"lower": "gout"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gist"}]}
+{"label": "DISEASE", "pattern": [{"lower": "spinal"}, {"lower": "muscular"}, {"lower": "atrophy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "eaton-lambert"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "epithelial"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "ovary"}]}
+{"label": "DISEASE", "pattern": [{"lower": "persistent"}, {"lower": "pulmonary"}, {"lower": "hypertension"}, {"lower": "of"}, {"lower": "the"}, {"lower": "newborn"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "musculoskeletal"}, {"lower": "system"}]}
+{"label": "DISEASE", "pattern": [{"lower": "nsclc"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cystitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "shingles"}]}
+{"label": "DISEASE", "pattern": [{"lower": "chlamydial"}, {"lower": "conjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malaria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hairy"}, {"lower": "cell"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "scrub"}, {"lower": "typhus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "osteomalacia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "punctate"}, {"lower": "keratitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "postpartum"}, {"lower": "depression"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bacterial"}, {"lower": "pneumonia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "asthma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bipolar"}, {"lower": "affective"}, {"lower": "disorder,"}, {"lower": "current"}, {"lower": "episode"}, {"lower": "depression"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cyclical"}, {"lower": "neutropenia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "lymphocytic"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gout"}]}
+{"label": "DISEASE", "pattern": [{"lower": "parkinson"}, {"lower": "s"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "endometritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hamman-rich"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "common"}, {"lower": "cold"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gastrointestinal"}, {"lower": "stromal"}, {"lower": "tumor"}]}
+{"label": "DISEASE", "pattern": [{"lower": "duodenal"}, {"lower": "ulcer"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sympathetic"}, {"lower": "ophthalmia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neoplasm"}, {"lower": "of"}, {"lower": "head"}, {"lower": "and"}, {"lower": "neck"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pellagra"}]}
+{"label": "DISEASE", "pattern": [{"lower": "candidal"}, {"lower": "vulvovaginitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "anemia"}, {"lower": "of"}, {"lower": "prematurity"}]}
+{"label": "DISEASE", "pattern": [{"lower": "macroglobulinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "visceral"}, {"lower": "leishmaniasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gastric"}, {"lower": "ulcer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "prostate"}, {"lower": "cancer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bacterial"}, {"lower": "conjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "falciparum"}, {"lower": "malaria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "angiomyolipoma"}, {"lower": "of"}, {"lower": "kidney"}]}
+{"label": "DISEASE", "pattern": [{"lower": "localization-related"}, {"lower": "epilepsy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "löffler's"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hodgkin's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "polycythemia"}, {"lower": "vera"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sarcoidosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "keratitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "non-small"}, {"lower": "cell"}, {"lower": "lung"}, {"lower": "cancer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "folliculitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gouty"}, {"lower": "arthritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "granuloma"}, {"lower": "annulare"}]}
+{"label": "DISEASE", "pattern": [{"lower": "insulinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "diabetic"}, {"lower": "neuropathy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "glanzmann's"}, {"lower": "thrombasthenia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "cutaneous"}, {"lower": "anthrax"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rosacea"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pyelonephritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "plague"}]}
+{"label": "DISEASE", "pattern": [{"lower": "sucrase-isomaltase"}, {"lower": "deficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "thyroiditis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "inclusion"}, {"lower": "conjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "allergic"}, {"lower": "asthma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "essential"}, {"lower": "thrombocythemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "lymphoid"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "syndrome"}, {"lower": "of"}, {"lower": "inappropriate"}, {"lower": "vasopressin"}, {"lower": "secretion"}]}
+{"label": "DISEASE", "pattern": [{"lower": "yaws"}]}
+{"label": "DISEASE", "pattern": [{"lower": "thyroid"}, {"lower": "cancer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "essential"}, {"lower": "hypertension"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "cervix"}]}
+{"label": "DISEASE", "pattern": [{"lower": "non"}, {"lower": "small"}, {"lower": "cell"}, {"lower": "lung"}, {"lower": "cancer"}]}
+{"label": "DISEASE", "pattern": [{"lower": "esophageal"}, {"lower": "candidiasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ulcerative"}, {"lower": "cystitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "colon"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypopituitarism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "blastomycosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "congenital"}, {"lower": "hypothyroidism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "constipation"}]}
+{"label": "DISEASE", "pattern": [{"lower": "candidiasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "laron-type"}, {"lower": "isolated"}, {"lower": "somatotropin"}, {"lower": "defect"}]}
+{"label": "DISEASE", "pattern": [{"lower": "eye"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "extrinsic"}, {"lower": "allergic"}, {"lower": "alveolitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "wilson's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "non-allergic"}, {"lower": "asthma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "nephroblastoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "vulvovaginitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "paralytic"}, {"lower": "ileus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "obesity"}]}
+{"label": "DISEASE", "pattern": [{"lower": "amebic"}, {"lower": "infection"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "tumor"}, {"lower": "of"}, {"lower": "stomach"}]}
+{"label": "DISEASE", "pattern": [{"lower": "renal"}, {"lower": "angiomyolipoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gonococcal"}, {"lower": "conjunctivitis"}, {"lower": "neonatorum"}]}
+{"label": "DISEASE", "pattern": [{"lower": "candidiasis"}, {"lower": "of"}, {"lower": "the"}, {"lower": "esophagus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "neoplasm"}, {"lower": "of"}, {"lower": "brain"}]}
+{"label": "DISEASE", "pattern": [{"lower": "schizophrenia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mixed"}, {"lower": "bipolar"}, {"lower": "i"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "squamous"}, {"lower": "cell"}, {"lower": "carcinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "gonorrhea"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hereditary"}, {"lower": "factor"}, {"lower": "ix"}, {"lower": "deficiency"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "atrophic"}, {"lower": "vulva"}]}
+{"label": "DISEASE", "pattern": [{"lower": "atrial"}, {"lower": "fibrillation"}]}
+{"label": "DISEASE", "pattern": [{"lower": "graves'"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "exocrine"}, {"lower": "pancreatic"}, {"lower": "insufficiency"}]}
+{"label": "DISEASE", "pattern": [{"lower": "obstructive"}, {"lower": "hyperbilirubinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "schizoaffective"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "proctitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ophthalmia"}, {"lower": "neonatorum"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rhinitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "pleural"}, {"lower": "mesothelioma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "heart"}, {"lower": "failure"}]}
+{"label": "DISEASE", "pattern": [{"lower": "rheumatoid"}, {"lower": "arthritis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tinea"}, {"lower": "manus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "disorder"}, {"lower": "of"}, {"lower": "eye"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "cystitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "wilson"}, {"lower": "s"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "peptic"}, {"lower": "reflux"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bartonellosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pityriasis"}, {"lower": "versicolor"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hyperprolactinemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hypercortisolism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "stevens"}, {"lower": "johnson"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "meningitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "leishmaniasis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "endometrial"}, {"lower": "carcinoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "myasthenia"}, {"lower": "gravis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pyoderma"}, {"lower": "gangrenosum"}]}
+{"label": "DISEASE", "pattern": [{"lower": "synovitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "acute"}, {"lower": "gonococcal"}, {"lower": "epididymo-orchitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "osteoporosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pneumonia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "adenocarcinoma"}, {"lower": "of"}, {"lower": "prostate"}]}
+{"label": "DISEASE", "pattern": [{"lower": "relapsing"}, {"lower": "remitting"}, {"lower": "multiple"}, {"lower": "sclerosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infantile"}, {"lower": "autism"}]}
+{"label": "DISEASE", "pattern": [{"lower": "herpes"}, {"lower": "genitalis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "berylliosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "prostatitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "mesothelioma"}, {"lower": "of"}, {"lower": "pleura"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bronchitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "obsessive"}, {"lower": "compulsive"}, {"lower": "disorder"}]}
+{"label": "DISEASE", "pattern": [{"lower": "turner"}, {"lower": "syndrome"}]}
+{"label": "DISEASE", "pattern": [{"lower": "basal"}, {"lower": "cell"}, {"lower": "carcinoma"}, {"lower": "of"}, {"lower": "skin"}]}
+{"label": "DISEASE", "pattern": [{"lower": "fabry's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "bacterial"}, {"lower": "vaginosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "motion"}, {"lower": "sickness"}]}
+{"label": "DISEASE", "pattern": [{"lower": "parkinson's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "trigeminal"}, {"lower": "neuralgia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "osteitis"}, {"lower": "deformans"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mycetoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "pancreatitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hemophilia"}, {"lower": "a"}]}
+{"label": "DISEASE", "pattern": [{"lower": "kaposi's"}, {"lower": "sarcoma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "mast"}, {"lower": "cell"}, {"lower": "leukemia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "blepharoconjunctivitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tetanus"}]}
+{"label": "DISEASE", "pattern": [{"lower": "atherosclerosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "squamous"}, {"lower": "cell"}, {"lower": "carcinoma"}, {"lower": "of"}, {"lower": "larynx"}]}
+{"label": "DISEASE", "pattern": [{"lower": "infection"}, {"lower": "by"}, {"lower": "trichomonas"}]}
+{"label": "DISEASE", "pattern": [{"lower": "malignant"}, {"lower": "hyperthermia"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ischemic"}, {"lower": "heart"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "female"}, {"lower": "stress"}, {"lower": "incontinence"}]}
+{"label": "DISEASE", "pattern": [{"lower": "nocardiosis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hemangioma"}]}
+{"label": "DISEASE", "pattern": [{"lower": "human"}, {"lower": "immunodeficiency"}, {"lower": "virus"}, {"lower": "infection"}]}
+{"label": "DISEASE", "pattern": [{"lower": "scarlet"}, {"lower": "fever"}]}
+{"label": "DISEASE", "pattern": [{"lower": "neurofibromatosis"}, {"lower": "type"}, {"lower": "1"}]}
+{"label": "DISEASE", "pattern": [{"lower": "paroxysmal"}, {"lower": "nocturnal"}, {"lower": "hemoglobinuria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "quartan"}, {"lower": "malaria"}]}
+{"label": "DISEASE", "pattern": [{"lower": "ménière's"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "periodontitis"}]}
+{"label": "DISEASE", "pattern": [{"lower": "tonic-clonic"}, {"lower": "epilepsy"}]}
+{"label": "DISEASE", "pattern": [{"lower": "hereditary"}, {"lower": "factor"}, {"lower": "viii"}, {"lower": "deficiency"}, {"lower": "disease"}]}
+{"label": "DISEASE", "pattern": [{"lower": "peripheral"}, {"lower": "venous"}, {"lower": "insufficiency"}]}

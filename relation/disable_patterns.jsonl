@@ -1,0 +1,94 @@
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "adverse"}, {"lower": "reactions"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "reactions"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "associated"}, {"lower": "with"}, {"lower": "the"}, {"lower": "risk"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "to"}, {"lower": "the"}, {"lower": "risk"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "a"}, {"lower": "high"}, {"lower": "risk"}, {"lower": "for"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "a"}, {"lower": "high"}, {"lower": "risk"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "high"}, {"lower": "incidence"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "higher"}, {"lower": "incidence"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "cause"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "causes"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "symptoms"}, {"lower": "occur"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "teratogenic"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "site"}, {"lower": "reaction"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "the"}, {"lower": "risk"}, {"lower": "of"}, {"lower": "development"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "is"}, {"lower": "associated"}, {"lower": "with"}, {"lower": "the"}, {"lower": "risk"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "symptoms"}, {"lower": "of"}, {"lower": "the"}, {"lower": "poisoning"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "symptoms"}, {"lower": "of"}, {"lower": "poisoning"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "hypersensitivity"}, {"lower": "to"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "hypersensitivity"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "are"}, {"lower": "not"}, {"lower": "candidates"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "contraindications"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "contraindicatedin"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "not"}, {"lower": "administered"}, {"lower": "to"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "contraindicated"}, {"lower": "in"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "should"}, {"lower": "not"}, {"lower": "be"}, {"lower": "used"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "is"}, {"lower": "contraindication"}, {"lower": "for"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "is"}, {"lower": "contraindication"}, {"lower": "when"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "is"}, {"lower": "contraindicated"}, {"lower": "when"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "must"}, {"lower": "not"}, {"lower": "be"}, {"lower": "used"}, {"lower": "for"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "do"}, {"lower": "not"}, {"lower": "administer"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "should"}, {"lower": "not"}, {"lower": "initiate"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "not"}, {"lower": "be"}, {"lower": "administered"}, {"lower": "to"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "do"}, {"lower": "not"}, {"lower": "initiate"}, {"lower": "patients"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "contraindication"}, {"lower": "for"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "should"}, {"lower": "not"}, {"lower": "be"}, {"lower": "given"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "do"}, {"lower": "not"}, {"lower": "use"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "should"}, {"lower": "not"}, {"lower": "be"}, {"lower": "treated"}, {"lower": "with"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "should"}, {"lower": "not"}, {"lower": "be"}, {"lower": "employed"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "reduce"}, {"lower": "symptoms"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "relief"}, {"lower": "of"}, {"lower": "the"}, {"lower": "signs"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "relief"}, {"lower": "of"}, {"lower": "signs"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "relief"}, {"lower": "of"}, {"lower": "symptoms"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "relief"}, {"lower": "of"}, {"lower": "the"}, {"lower": "symptoms"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "help"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "helps"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "relief"}, {"lower": "of"}, {"lower": "signs"}, {"lower": "and"}, {"lower": "symptoms"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "reduction"}, {"lower": "of"}, {"lower": "symptoms"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "treatment"}, {"lower": "of"}, {"lower": "the"}, {"lower": "symptoms"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "for"}, {"lower": "the"}, {"lower": "relief"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "management"}, {"lower": "of"}, {"lower": "the"}, {"lower": "signs"}, {"lower": "and"}, {"lower": "symptoms"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "provides"}, {"lower": "an"}, {"lower": "observable"}, {"lower": "symptomatic"}, {"lower": "benefit"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "until"}, {"lower": "the"}, {"lower": "condition"}, {"lower": "is"}, {"lower": "improved"}, {"lower": "or"}, {"lower": "corrected"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "until"}, {"lower": "the"}, {"lower": "condition"}, {"lower": "is"}, {"lower": "corrected"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "for"}, {"lower": "short"}, {"lower": "term"}, {"lower": "administration"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "for"}, {"lower": "short-term"}, {"lower": "administration"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "prophylactically"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "controlling"}, {"lower": "the"}, {"lower": "manifestations"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "controlling"}, {"lower": "the"}, {"lower": "manifestation"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "controlling"}, {"lower": "manifestations"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "controlling"}, {"lower": "manifestation"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "control"}, {"lower": "the"}, {"lower": "manifestations"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "control"}, {"lower": "the"}, {"lower": "manifestation"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "control"}, {"lower": "manifestations"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "control"}, {"lower": "manifestation"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "symptomatic"}, {"lower": "treatment"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "symptomatic"}, {"lower": "relief"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "symptomatic"}, {"lower": "benefit"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "not"}, {"lower": "indicated"}, {"lower": "for"}, {"lower": "definitive"}, {"lower": "treatment"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "treatment"}, {"lower": "of"}, {"lower": "the"}, {"lower": "signs"}, {"lower": "and"}, {"lower": "symptoms"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}, {"lower": "the"}, {"lower": "treatment"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "in"}, {"lower": "the"}, {"lower": "management"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}, {"lower": "the"}, {"lower": "management"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "for"}, {"lower": "the"}, {"lower": "management"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "management"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}, {"lower": "the"}, {"lower": "maintenance"}, {"lower": "of"}, {"lower": "remission"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "or"}, {"lower": "the"}, {"lower": "treatment"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "in"}, {"lower": "the"}, {"lower": "treatment"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "as"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "in"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "be"}, {"lower": "effective"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "effective"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "active"}, {"lower": "treatment"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "treatment"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "as"}, {"lower": "an"}, {"lower": "adjunct"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}, {"lower": "use"}, {"lower": "in"}, {"lower": "the"}, {"lower": "treatment"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}, {"lower": "the"}, {"lower": "intermittent"}, {"lower": "treatment"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "to"}, {"lower": "reduce"}, {"lower": "the"}, {"lower": "rate"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}, {"lower": "the"}, {"lower": "rapid"}, {"lower": "control"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "for"}, {"lower": "the"}, {"lower": "control"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "reduce"}, {"lower": "the"}, {"lower": "risk"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "as"}, {"lower": "adjunctive"}, {"lower": "treatment"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "for"}, {"lower": "the"}, {"lower": "treatment"}, {"lower": "of"}]}
+{"label": "RELATION_PHRASE", "pattern": [{"lower": "indicated"}, {"lower": "as"}, {"lower": "an"}, {"lower": "adjunct"}]}

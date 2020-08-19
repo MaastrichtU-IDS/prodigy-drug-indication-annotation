@@ -1,5 +1,5 @@
-This is a pipeline for drug-disease annoation. The task is to define relattion between drug and disease, if you can identify a drug and disease in a text, you can skip the text.
-Whenever possible, the Prodigy will tag disease and phrases that are helpful to identify relationship for you.
+This pipeline annoates for drug-disease relations. The task is to define the relation between a drug and a disease, if you cannot identify a drug and disease in a text, you may skip the text or reject.
+Whenever possible, the Prodigy will tag disease and phrases that are helpful to identify relationship in the text for you.
 
 **unzip diseases model**
 ```

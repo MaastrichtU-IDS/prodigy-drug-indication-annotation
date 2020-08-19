@@ -1,4 +1,4 @@
-This pipeline annoates for drug-disease relations. The task is to define the relation between a drug and a disease, if you cannot identify a drug and disease in a text, you may skip the text or reject.
+This pipeline annoates drug-disease relations. The task for annotators is to define the relation between a drug and a disease, if you cannot identify a drug and disease in a text, you may skip the text or reject.
 Whenever possible, the Prodigy will tag disease and phrases that are helpful to identify relationship in the text for you.
 
 **unzip diseases model**

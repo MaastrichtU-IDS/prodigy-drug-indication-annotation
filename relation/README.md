@@ -11,3 +11,5 @@ unzip ../disease_ner/diseases-model.zip
 ```
 python3 -m prodigy rel.manual relation_data ../disease_ner/diseases-model ./dailymed_disease3.jsonl --label DISEASE_MODIFYING,SYMPTOMATIC_RELEIF --span-label DISEASE --d ./disable_patterns.jsonl --add-ents  --wrap
 ```
+
+![alt text](https://github.com/MaastrichtU-IDS/prodigy-drug-indication-annotation/blob/master/relation/Screenshot%202020-08-19%20at%2010.04.37.png?raw=true)

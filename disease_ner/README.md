@@ -7,7 +7,7 @@ A project that uses [Prodigy](http://prodi.gy) to train a classifier to perform 
 python3 -m spacy download en_core_web_sm
 pip3 install prodigy-....whl
 
-** manual annoations for disease names using patterns
+**manual annoations for disease names using patterns**
 
 python3 -m  prodigy ner.manual disease_ner_gold en_core_web_sm ./dailymed_disease2.jsonl --label DISEASE -pt ./disease_patterns_doid.jsonl
 

@@ -2,7 +2,7 @@
 
 A project that uses [Prodigy](http://prodi.gy) to train a classifier to perform drug indication annotation with their medical context
 
-**Requirement 
+**Requirement** 
 
 python3 -m spacy download en_core_web_sm
 pip3 install prodigy-....whl
@@ -11,7 +11,7 @@ pip3 install prodigy-....whl
 
 python3 -m  prodigy ner.manual disease_ner_gold en_core_web_sm ./dailymed_disease2.jsonl --label DISEASE -pt ./disease_patterns_doid.jsonl
 
-**import the dataset
+**import the dataset**
 ```
 python3 -m prodigy db-in disease_ner dailymed-annotations2-disease.jsonl
 ```
@@ -23,7 +23,7 @@ python3 -m prodigy ner.batch-train disease_ner en_core_web_sm --output diseases-
 ```
 
 
-**export the dataset
+**export the dataset**
 ```
 python3 -m prodigy db-out dailymed --dry > dailymed-annotations.jsonl
 ```

@@ -24,7 +24,7 @@ ADD . .
 
 # RUN chmod +x prodigy-1.10.0-cp36.cp37.cp38-cp36m.cp37m.cp38-linux_x86_64.whl
 
-RUN pip install --upgrade pip
+RUN python -m pip install --upgrade pip
 
 # RUN pip install ./${WHEEL_FILE}
 
@@ -36,7 +36,7 @@ RUN ls -alh
 # RUN pip install *.whl
 # RUN pip install -e /root/prodigy-1.10.0-cp36.cp37.cp38-cp36m.cp37m.cp38-linux_x86_64.whl
 # RUN pip install /root/*.whl
-RUN pip install *.whl
+RUN python -m pip install *.whl
 
 # RUN jupyter labextension install jupyterlab-prodigy
 

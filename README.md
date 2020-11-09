@@ -62,3 +62,33 @@ python -m prodigy ner.teach sample en_core_web_sm ./[dpl-indications.csv] -l [./
 python3 -m prodigy ner.manual dailymed blank:en ./drugcentral-dailymed-labels.txt -l ./indications_types.txt
 python3 -m prodigy db-out dailymed --dry > dailymed-annotations.jsonl
 ```
+
+## Run using Docker
+
+1. Clone the repository
+
+```bash
+git clone
+cd
+```
+
+2. Add the `prodigy.whl` file in the root directory, alongside the `Dockerfile`
+3. Build with Docker:
+
+```bash
+docker build -t prodigy .
+```
+
+4. Run with Docker on http://localhost:8080
+
+```bash
+docker run -it --name prodigy prodigy
+```
+
+You can also use a different annotation file and labels:
+
+```bash
+docker run -it --name prodigy -e DATASET_NAME=sample -e SAMPLE_SENTENCES_FILE=sample-sentences.txt -e LABELS_FILE=labels.txt prodigy
+```
+
+ 

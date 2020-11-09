@@ -22,7 +22,7 @@ We define the following labels:
 * INEFFECTIVE: Where the drug is ineffective.
 
 **manually create new dataset**
-   
+
 ```
 python -m prodigy ner.manual [dataset-name] blank:en [sentence-file-path] -l [labels-file-path]
 python -m prodigy ner.manual sample blank:en ./sample-sentences.txt -l ./labels.txt
@@ -91,4 +91,4 @@ You can also use a different annotation file and labels:
 docker run -it --name prodigy -e DATASET_NAME=sample -e SAMPLE_SENTENCES_FILE=sample-sentences.txt -e LABELS_FILE=labels.txt prodigy
 ```
 
- 
+> Checkout the prodigy-recipes repository for more ways to use prodigy: https://github.com/explosion/prodigy-recipes

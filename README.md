@@ -34,21 +34,18 @@ the server will then start up and you can start annotating
 ```
 python -m prodigy db-out [dataset] --dry > [dataset.jsonl]
 python -m prodigy db-out sample --dry > sample-annotations.jsonl
-
 ```
 
 **review a dataset**
 ```
 python -m prodigy review [reviewed-dataset-name] [dataset] -l [labels-file-path]
 python -m prodigy review sample-review sample -l ./labels.txt
-
 ```
 
 **export the patterns**
 ```
 python -m prodigy terms.to-patterns [dataset] ./[dataset-patterns.jsonl] -l [labels-file-path] -m blank:en
 python -m prodigy terms.to-patterns sample ./sample-patterns.jsonl -l ./labels.txt -m blank:en
-
 ```
 
 **train the classifier**
@@ -68,8 +65,8 @@ python3 -m prodigy db-out dailymed --dry > dailymed-annotations.jsonl
 1. Clone the repository
 
 ```bash
-git clone
-cd
+git clone https://github.com/MaastrichtU-IDS/prodigy-drug-indication-annotation
+cd prodigy-drug-indication-annotation
 ```
 
 2. Add the `prodigy.whl` file in the root directory, alongside the `Dockerfile`

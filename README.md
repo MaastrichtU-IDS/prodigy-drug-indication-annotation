@@ -82,13 +82,13 @@ docker build -t prodigy .
 4. Run with Docker on http://localhost:8080
 
 ```bash
-docker run -it --name prodigy prodigy
+docker run -it -d --name prodigy prodigy
 ```
 
 You can also use a different annotation file and labels:
 
 ```bash
-docker run -it --name prodigy -e DATASET_NAME=sample -e SAMPLE_SENTENCES_FILE=sample-sentences.txt -e LABELS_FILE=labels.txt prodigy
+docker run -it -d --name prodigy -e DATASET_NAME=sample -e SAMPLE_SENTENCES_FILE=sample-sentences.txt -e LABELS_FILE=labels.txt prodigy
 ```
 
 > Checkout the prodigy-recipes repository for more ways to use prodigy: https://github.com/explosion/prodigy-recipes

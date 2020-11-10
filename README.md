@@ -34,21 +34,18 @@ the server will then start up and you can start annotating
 ```
 python -m prodigy db-out [dataset] --dry > [dataset.jsonl]
 python -m prodigy db-out sample --dry > sample-annotations.jsonl
-
 ```
 
 **review a dataset**
 ```
 python -m prodigy review [reviewed-dataset-name] [dataset] -l [labels-file-path]
 python -m prodigy review sample-review sample -l ./labels.txt
-
 ```
 
 **export the patterns**
 ```
 python -m prodigy terms.to-patterns [dataset] ./[dataset-patterns.jsonl] -l [labels-file-path] -m blank:en
 python -m prodigy terms.to-patterns sample ./sample-patterns.jsonl -l ./labels.txt -m blank:en
-
 ```
 
 **train the classifier**
@@ -68,8 +65,8 @@ python3 -m prodigy db-out dailymed --dry > dailymed-annotations.jsonl
 1. Clone the repository
 
 ```bash
-git clone
-cd
+git clone https://github.com/MaastrichtU-IDS/prodigy-drug-indication-annotation
+cd prodigy-drug-indication-annotation
 ```
 
 2. Add the `prodigy.whl` file in the root directory, alongside the `Dockerfile`
@@ -77,6 +74,34 @@ cd
 
 ```bash
 docker build -t prodigy .
+```
+
+Unfortunately Prodigy is not build properly, and its installation fails when installed in docker (same file work on the local Ubuntu):
+
+```Step 7/9 : RUN python -m pip install *.whl
+Step 7/9 : RUN python -m pip install *.whl 
+ ---> Running in 3c9e94427ab0
+Processing ./prodigy-1.10.0-cp36.cp37.cp38-cp36m.cp37m.cp38-linux_x86_64.whl
+ERROR: Exception:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.7/site-packages/pip/_internal/cli/base_command.py", line 228, in _main
+    status = self.run(options, args)
+  File "/usr/local/lib/python3.7/site-packages/pip/_internal/cli/req_command.py", line 182, in wrapper
+    return func(self, options, args)
+  File "/usr/local/lib/python3.7/site-packages/pip/_internal/commands/install.py", line 324, in run
+    reqs, check_supported_wheels=not options.target_dir
+  File "/usr/local/lib/python3.7/site-packages/pip/_internal/resolution/legacy/resolver.py", line 183, in resolve
+    discovered_reqs.extend(self._resolve_one(requirement_set, req))
+  File "/usr/local/lib/python3.7/site-packages/pip/_internal/resolution/legacy/resolver.py", line 391, in _resolve_one
+    dist = abstract_dist.get_pkg_resources_distribution()
+  File "/usr/local/lib/python3.7/site-packages/pip/_internal/distributions/wheel.py", line 29, in get_pkg_resources_distribution
+    with ZipFile(self.req.local_file_path, allowZip64=True) as z:
+  File "/usr/local/lib/python3.7/zipfile.py", line 1258, in __init__
+    self._RealGetContents()
+  File "/usr/local/lib/python3.7/zipfile.py", line 1325, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+The command '/bin/sh -c python -m pip install *.whl' returned a non-zero code: 2
 ```
 
 4. Run with Docker on http://localhost:8080
@@ -92,3 +117,4 @@ docker run -it -d --name prodigy -e DATASET_NAME=sample -e SAMPLE_SENTENCES_FILE
 ```
 
 > Checkout the prodigy-recipes repository for more ways to use prodigy: https://github.com/explosion/prodigy-recipes
+

@@ -20,4 +20,4 @@ RUN pip install *.whl
 EXPOSE 8080
 VOLUME [ "/data" ]
 
-ENTRYPOINT python -m prodigy ner.manual $DATASET_NAME blank:en $SAMPLE_SENTENCES_FILE -l $LABELS_FILE
+ENTRYPOINT python -m prodigy ner.manual $DATASET_NAME blank:en $SAMPLE_SENTENCES_FILE -l $LABELS_FILE   

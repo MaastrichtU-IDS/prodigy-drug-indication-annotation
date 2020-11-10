@@ -73,21 +73,13 @@ cd prodigy-drug-indication-annotation
 3. Build with Docker:
 
 ```bash
-docker build -t umids/prodigy:$VERSION .
+docker build -t prodigy .
 ```
 
-## Run using Docker
-
-1. Pull the latest image:
+4. Run with Docker on http://localhost:8080
 
 ```bash
-docker pull umids/prodigy:latest
-```
-
-2. Run with Docker on http://localhost:8080
-
-```bash
-docker run -d -p 8080:8080 --name prodigy umids/prodigy:latest
+docker run -d -p 8080:8080 --name prodigy prodigy
 ```
 
 You can also use a different annotation file and labels:

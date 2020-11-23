@@ -13,7 +13,7 @@ pip3 install prodigy-....whl
 **manual annoations for disease names using patterns**
 
 ```
-python3 -m  prodigy ner.manual disease_ner_gold en_core_web_sm ./dailymed_disease2.jsonl --label DISEASE -pt ./disease_patterns_doid.jsonl
+python3 -m  prodigy ner.manual disease_ner_gold en_core_web_sm ../drugcentral-dailymed-labels.txt --label DISEASE -pt ./disease_patterns_doid.jsonl
 ```
 
 **import the dataset**

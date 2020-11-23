@@ -14,5 +14,9 @@ unzip output.zip
 
 
 ```
+FOR training days
+python3 -m prodigy entity_linker.manual disease_nel ../drugcentral-dailymed-labels.txt output/my_nlp/ output/my_kb disease_entities.tsv -F el_recipe.py
+
+
 python3 -m prodigy entity_linker.manual disease_nel dailymed_indsec_disease.txt output/my_nlp/ output/my_kb disease_entities.tsv -F el_recipe.py
 ```

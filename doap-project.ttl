@@ -1,0 +1,29 @@
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix asf: <http://projects.apache.org/ns/asfext#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+
+<https://w3id.org/umids/project/drug-indication-annotation>
+  a doap:Project ;
+  doap:name "drug indication annotation " ;
+  doap:description '''Tooling to annotate entities in drug indication using prodigy''' ;
+  bibo:status "Inactive" ;
+
+  doap:programming-language "Python" ;
+  doap:license <https://github.com/MaastrichtU-IDS/prodigy-drug-indication-annotation/blob/master/LICENSE> ;
+  doap:bug-database <https://github.com/MaastrichtU-IDS/prodigy-drug-indication-annotation/issues> ;
+  
+  
+  
+  
+  
+  doap:category "Research" ;
+  doap:repository [
+    a doap:GitRepository ;
+    doap:location <https://github.com/MaastrichtU-IDS/prodigy-drug-indication-annotation> ;
+  ] ;
+  doap:maintainer [
+    a foaf:Person ;
+    foaf:name "Remzi Celebi" ;
+    foaf:mbox <mailto:remzi.celebi@maastrichtuniversity.nl>
+  ] .
